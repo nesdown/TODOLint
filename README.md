@@ -19,5 +19,6 @@ The project was made just for practice. It is inspired by some cool YouTube tuto
 
 How does it look?
 ------------------
+Just like this:
 
-<a href="https://ibb.co/kPpkxm"><img src="https://preview.ibb.co/dwHuq6/Screenshot_from_2017_11_19_00_43_12.png" alt="Screenshot_from_2017_11_19_00_43_12" border="0"></a>
+<center><a href="https://ibb.co/kPpkxm"><img src="https://preview.ibb.co/dwHuq6/Screenshot_from_2017_11_19_00_43_12.png" alt="Screenshot_from_2017_11_19_00_43_12" border="0"></a></center>
